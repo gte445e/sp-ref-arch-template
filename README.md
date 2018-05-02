@@ -1,1 +1,1 @@
-# sp-ref-arch-template
+# Reference Architecture Template
